@@ -3,7 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - <b> SQL Injections Techniques</b>
-  - Classic in-band error-based SQLi (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Classic in-band error-based SQLi (https://github.com/fabiancruzcs/Classic-error-based-SQLi-Lab/blob/main/README.md)
 
 <h2> Connect with me:</h2>
 
