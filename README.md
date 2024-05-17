@@ -1,4 +1,4 @@
-<img src="https://github.com/fabiancruzcs/Resources/blob/main/coder.gif" alt="mario-coding" width="1200" height="400">
+<img src="https://github.com/fabiancruzcs/Resources/blob/main/coder.gif" alt="mario-coding" width="700">
 
 # 👋 Hi, I'm Fabian! <br> <sub>*A Cybersecurity Analyst enthusiast*</sub>
 
