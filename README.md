@@ -22,6 +22,7 @@
 ### Programming Languages and Platforms:
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![JSON](https://img.shields.io/badge/JSON-%23008000.svg?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://docs.microsoft.com/en-us/windows/terminal/)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -44,6 +45,9 @@
 [![SSH](https://img.shields.io/badge/SSH-%23FFD700.svg?style=for-the-badge&logo=ssh&logoColor=white)](https://en.wikipedia.org/wiki/SSH_(Secure_Shell))
 [![Wireshark](https://img.shields.io/badge/Wireshark-%234377A1.svg?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-%231B1D1D.svg?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![Troubleshooting](https://img.shields.io/badge/Troubleshooting-%23FF6347.svg?style=for-the-badge&logo=troubleshooting&logoColor=white)](https://en.wikipedia.org/wiki/Troubleshooting)
+[![Network Artifacts](https://img.shields.io/badge/Network%20Artifacts-%230072C6.svg?style=for-the-badge&logo=network-artifacts&logoColor=white)](https://en.wikipedia.org/wiki/Network_security)
+
 
 ### Database and Infrastructure Security:
 
@@ -51,6 +55,8 @@
 [![IAM](https://img.shields.io/badge/IAM-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/iam/)
 [![SIEM](https://img.shields.io/badge/SIEM-%231572B6.svg?style=for-the-badge&logo=siemens&logoColor=white)](https://en.wikipedia.org/wiki/Security_information_and_event_management)
 [![IPS/IDS](https://img.shields.io/badge/IPS/IDS-%23336699.svg?style=for-the-badge&logo=ids&logoColor=white)](https://en.wikipedia.org/wiki/Intrusion_detection_system)
+[![Hash Values](https://img.shields.io/badge/Hash_Values-%2300FF00.svg?style=for-the-badge&logo=hashing&logoColor=white)](https://en.wikipedia.org/wiki/Hash_function)
+[![Host Artifacts](https://img.shields.io/badge/Host_Artifacts-%23FF4500.svg?style=for-the-badge&logo=host-artifacts&logoColor=white)](https://en.wikipedia.org/wiki/Host-based_security)
 
 ### Networking and Protocols:
 
