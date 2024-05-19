@@ -4,7 +4,6 @@
 
 🔭 Actively working on expanding my portfolio with new projects to gain more hands-on experience. <br>
 👯 Looking to collaborate on cybersecurity projects. <br>
-🤝 Seeking guidance on securing a SOC Analyst position. <br>
 🌱 Currently enhancing my skills through TryHackMe and Udemy courses. <br>
 💬 Feel free to reach out if you have any questions for me. <br>
 ⚡ Fun fact: I enjoy playing chess.
