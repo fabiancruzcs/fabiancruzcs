@@ -12,7 +12,7 @@
 
 - **SQL Injections Techniques**
   - [In-band Error-based SQL Injection (Classic SQLi)](https://github.com/fabiancruzcs/Classic-error-based-SQLi-Lab/blob/main/README.md)
-  - In-band Union-based SQL Injection (Classic SQLi) • Planned next!
+  - In-band Union-based SQL Injection (Classic SQLi) • Planned next
 - **SOC Analyst HomeLab**
   - [SIEM and Log Analysis](https://github.com/fabiancruzcs/SIEM-and-Log-Analysis-Lab) • In-progress
 ## 🔧 Skill Set:
