@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Fabian! <br> <sub>*A SOC Analyst enthusiast*</sub>
 
+Welcome to my portfolio! Here, I showcase what I learn through hands-on experience. Driven by my passion for cybersecurity, I tackle various projects to deepen my understanding of challenging concepts and technologies. I believe the best way to learn is by doing, and this space highlights my journey and growth in the tech world.</br>
+
 🔭 Actively working on expanding my portfolio with new projects to gain more hands-on experience. <br>
 👯 Looking to collaborate on cybersecurity projects. <br>
 🌱 Currently enhancing my skills through TryHackMe and Udemy courses. <br>
