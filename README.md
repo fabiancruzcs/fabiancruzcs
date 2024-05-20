@@ -4,11 +4,11 @@
 
 Welcome to my portfolio! Here, I showcase what I learn through hands-on experience. Driven by my passion for cybersecurity, I tackle various projects to deepen my understanding of challenging concepts and technologies. I believe the best way to learn is by doing, and this space highlights my journey and growth in the tech world.</br>
 
-🔭 Actively working on expanding my portfolio with new projects to gain more hands-on experience. <br>
-👯 Looking to collaborate on cybersecurity projects. <br>
-🌱 Currently enhancing my skills through TryHackMe and Udemy courses. <br>
+🎯 I'm obsessed with the blue-teaming aspect of security and actively expanding my understanding in this realm <br>
+👯 Looking to collaborate on cybersecurity projects or related domains. <br>
+🌱 Currently enhancing my skills and knowledge through TryHackMe and Udemy courses. <br>
 💬 Feel free to reach out if you have any questions for me. <br>
-⚡ Fun fact about me: I enjoy playing chess. 
+⚡ Fun fact: I enjoy playing chess.
 
 ## 🛡️ Cybersecurity Projects:
 
