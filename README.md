@@ -6,7 +6,7 @@
 👯 Looking to collaborate on cybersecurity projects. <br>
 🌱 Currently enhancing my skills through TryHackMe and Udemy courses. <br>
 💬 Feel free to reach out if you have any questions for me. <br>
-⚡ Fun fact: I enjoy playing chess. (1v1?)
+⚡ Fun fact: I enjoy playing chess. 
 
 ## 🛡️ Cybersecurity Projects:
 
