@@ -14,7 +14,7 @@
   - [In-band Error-based SQL Injection (Classic SQLi)](https://github.com/fabiancruzcs/Classic-error-based-SQLi-Lab/blob/main/README.md)
   - In-band Union-based SQL Injection (Classic SQLi) # In-progress
 - **SOC Analyst HomeLab**
-  - SIEM and Log Analysis # In-progress
+  - [SIEM and Log Analysis](https://github.com/fabiancruzcs/SIEM-and-Log-Analysis-Lab) # In-progress
 ## 🔧 Skill Set:
 
 ### Programming Languages and Platforms:
