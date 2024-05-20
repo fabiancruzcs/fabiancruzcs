@@ -6,14 +6,15 @@
 👯 Looking to collaborate on cybersecurity projects. <br>
 🌱 Currently enhancing my skills through TryHackMe and Udemy courses. <br>
 💬 Feel free to reach out if you have any questions for me. <br>
-⚡ Fun fact: I enjoy playing chess.
+⚡ Fun fact: I enjoy playing chess. (1v1?)
 
 ## 🛡️ Cybersecurity Projects:
 
 - **SQL Injections Techniques**
   - [In-band Error-based SQL Injection (Classic SQLi)](https://github.com/fabiancruzcs/Classic-error-based-SQLi-Lab/blob/main/README.md)
   - In-band Union-based SQL Injection (Classic SQLi) # In-progress
-
+- **SOC Analyst HomeLab**
+  - SIEM and Log Analysis # In-progress
 ## 🔧 Skill Set:
 
 ### Programming Languages and Platforms:
