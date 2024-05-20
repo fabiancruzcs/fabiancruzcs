@@ -1,6 +1,6 @@
 <img src="https://github.com/fabiancruzcs/fabiancruzcs/blob/main/cybersecurity-banner.jpeg" alt="mario-coding" width="800">
 
-# 👋 Hi, I'm Fabian! <br> <sub>*A Cybersecurity Analyst enthusiast*</sub>
+# 👋 Hi, I'm Fabian! <br> <sub>*A SOC Analyst enthusiast*</sub>
 
 🔭 Actively working on expanding my portfolio with new projects to gain more hands-on experience. <br>
 👯 Looking to collaborate on cybersecurity projects. <br>
