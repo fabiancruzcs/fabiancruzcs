@@ -4,12 +4,6 @@
 
 Welcome to my portfolio! Here, I showcase what I learn through hands-on experience because the best way to learn is by doing, and this space highlights my journey and growth in the tech world.</br>
 
-🎯 Obsessed with the blue-teaming aspect of security. <br>
-👯 Happy to collaborate on cybersecurity projects or related domains. <br>
-🌱 Currently enhancing skills through TryHackMe, HackTheBox, and Udemy courses. <br>
-💬 Feel free to reach out if you have any questions. <br>
-⚡ Fun fact: I enjoy playing chess.
-
 ## 🛡️ Cybersecurity Projects:
 
 - **SQL Injections Techniques**
