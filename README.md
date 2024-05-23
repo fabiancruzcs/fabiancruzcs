@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fabian! <br> <sub>*A SOC Analyst enthusiast*</sub>
 
-Welcome to my portfolio! Here, I showcase what I learn through hands-on experience. The best way to learn is by doing, and this space highlights my journey and growth in the tech world.</br>
+Welcome to my portfolio! Here, I showcase what I learn through hands-on experience because the best way to learn is by doing, and this space highlights my journey and growth in the tech world.</br>
 
 🎯 Obsessed with the blue-teaming aspect of security. <br>
 👯 Happy to collaborate on cybersecurity projects or related domains. <br>
