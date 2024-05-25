@@ -14,7 +14,7 @@ Welcome to my portfolio! Here, I showcase what I learn through hands-on experien
 
 ## 🏴‍☠️ Capture the Flag Events:
 - **NahamCon**
-  - [CTF 2024](https://github.com/fabiancruzcs/NahamConCTF2024) # On-going
+  - [CTF 2024 Challenge](https://github.com/fabiancruzcs/NahamConCTF2024) # On-going
 
 ## 🔧 Skill Set:
 
