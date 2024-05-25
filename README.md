@@ -13,7 +13,8 @@ Welcome to my portfolio! Here, I showcase what I learn through hands-on experien
   - [SIEM and Log Analysis](https://github.com/fabiancruzcs/SIEM-and-Log-Analysis-Lab) # On-going
 
 ## 🏴‍☠️ Capture the Flag Events:
-- NahamCon CTF 2024
+- **NahamCon**
+  - [CTF 2024]()
 
 ## 🔧 Skill Set:
 
