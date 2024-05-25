@@ -16,10 +16,6 @@ Welcome to my portfolio! Here, I showcase what I learn through hands-on experien
 - **NahamCon**
   - [CTF 2024 Challenge](https://github.com/fabiancruzcs/NahamConCTF2024) # On-going
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fabiancruzcs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fabiancruzcs&theme=tokyonight&hide_border=false)<br/>
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiancruzcs) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:fabiancruzcs@gmail.com)
