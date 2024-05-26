@@ -1,5 +1,3 @@
-<img src="https://github.com/fabiancruzcs/fabiancruzcs/blob/main/cybersecurity-banner.jpeg" alt="mario-coding" width="800">
-
 # 👋 Hi, I'm Fabian! <br> <sub>*A SOC Analyst enthusiast*</sub>
 
 Welcome to my portfolio! Here, I showcase what I learn through hands-on experience because the best way to learn is by doing, and this space highlights my journey and growth in the cyber world.</br>
