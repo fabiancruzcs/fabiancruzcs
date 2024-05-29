@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fabian! <br> <sub>*A SOC Analyst L1*</sub>
+# 👋 Hi, I'm Fabian! <br> <sub>*A SOC Analyst L1 Enthusiast*</sub>
 
 Greetings and welcome to my digital portfolio, a space where I document my hands-on experiences and growth in the cyber world. As an avid learner, I firmly believe that the best way to master any skill is through practical application, and here, I showcase exactly that.</br>
 
