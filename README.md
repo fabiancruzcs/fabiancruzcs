@@ -11,7 +11,7 @@ Greetings and welcome to my digital portfolio, a space where I document my hands
   - [SIEM and Log Analysis](https://github.com/fabiancruzcs/SIEM-and-Log-Analysis-Lab) # On-going
 
 ## 🎉 Events:
-- **Capture the Flag**
+- **Capture The Flag**
   - [NahamCon CTF 2024](https://github.com/fabiancruzcs/NahamCon-CTF-2024) 
 
 ## 🌐 Connect with me:
