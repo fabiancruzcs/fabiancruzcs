@@ -12,7 +12,7 @@ Greetings and welcome to my digital portfolio, a space where I document my hands
 
 ## 🎉 Events:
 - **Capture the Flag**
-  - [NahamCon CTF 2024](https://github.com/fabiancruzcs/NahamConCTF2024) 
+  - [NahamCon CTF 2024](https://github.com/fabiancruzcs/NahamCon-CTF-2024) 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiancruzcs) 
