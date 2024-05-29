@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fabian! <br> <sub>*A SOC Analyst enthusiast*</sub>
 
-Welcome to my portfolio! Here, I showcase what I learn through hands-on experience because the best way to learn is by doing, and this space highlights my journey and growth in the cyber world.</br>
+Greetings and welcome to my digital portfolio, a space where I document my hands-on experiences and growth in the cyber world. As an avid learner, I firmly believe that the best way to master any skill is through practical application, and here, I showcase exactly that.</br>
 
 ## 🛡️ Cybersecurity Projects:
 
