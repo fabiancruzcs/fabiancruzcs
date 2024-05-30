@@ -10,9 +10,10 @@ Greetings and welcome to my digital portfolio, a space where I document my hands
 - **SOC Analyst HomeLab**
   - [SIEM and Log Analysis](https://github.com/fabiancruzcs/SIEM-and-Log-Analysis-Lab) # On-going
 
-## 🎉 Events:
-- **Capture The Flag**
-  - [NahamCon CTF 2024](https://github.com/fabiancruzcs/NahamCon-CTF-2024) 
+## 🏆 Capture The Flag Participation:
+| CTF Event Name     | Rank     | Top  | My Writeup      | 
+|--------------------------------------|----------------------|-------------------|---------------------------------------|
+| [NahamCon CTF 2024](https://ctftime.org/event/2364)  | 1297/3833     | 34% | [GitHub](https://github.com/fabiancruzcs/NahamCon-CTF-2024) | 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiancruzcs) 
