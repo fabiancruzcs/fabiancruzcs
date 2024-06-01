@@ -3,6 +3,9 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cruzcs.png)](https://tryhackme.com/p/cruzcs)
 [![Hack The Box](https://www.hackthebox.com/badge/image/1957659)](https://app.hackthebox.com/profile/1957659) 
 
+[![cruzcs's tryhackme stats](https://raw.githubusercontent.com/cruzcs/cruzcs/master/assets/thm_propic.png)][tryhackme]
+
+
 #### _Welcome to my portfolio, showcasing my practical experience and growth in the realm of digital security._ </br>
 
 ## 🛡️ Cybersecurity Projects:
