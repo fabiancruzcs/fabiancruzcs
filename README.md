@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Fabian! <br> <sub>*A SOC Analyst L1 Enthusiast*</sub>
+# 👋 Hi, I'm Fabian! <br> <sub> Aspiring Cybersecurity Professional & CTF Enthusiast </sub>
 
-Greetings and welcome to my digital portfolio, a space where I document my hands-on experiences and growth in the cyber world. As an avid learner, I firmly believe that the best way to master any skill is through practical application, and here, I showcase exactly that.</br>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cruzcs.png)](https://tryhackme.com/p/cruzcs)
+[![Hack The Box](https://www.hackthebox.com/badge/image/1957659)](https://app.hackthebox.com/profile/1957659) 
+
+#### _Welcome to my portfolio, showcasing my practical experience and growth in the realm of digital security._ </br>
 
 ## 🛡️ Cybersecurity Projects:
 
@@ -11,6 +14,7 @@ Greetings and welcome to my digital portfolio, a space where I document my hands
   - [SIEM and Log Analysis](https://github.com/fabiancruzcs/SIEM-and-Log-Analysis-Lab) # On-going
 
 ## 🏆 Capture The Flag Participation:
+
 | CTF Event Name     | Rank     | Top  | My Writeup      | 
 |--------------------------------------|----------------------|-------------------|---------------------------------------|
 | [NahamCon CTF 2024](https://ctftime.org/event/2364)  | 1297/3833     | 34% | [GitHub](https://github.com/fabiancruzcs/NahamCon-CTF-2024) | 
