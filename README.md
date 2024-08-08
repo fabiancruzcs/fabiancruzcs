@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fabiancruzcs/fabiancruzcs/blob/main/banner.jpeg" alt="cruzcsbanner" width="900" height="400"/>
+  <img src="https://github.com/fabiancruzcs/fabiancruzcs/blob/main/banner.jpeg" alt="cruzcsbanner" width="1000" height="500"/>
 </p>
 
 # 👋 Hi, I'm Fabian! <br> <sub> Aspiring Cybersecurity Professional & CTF Enthusiast </sub>
