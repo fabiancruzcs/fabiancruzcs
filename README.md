@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/fabiancruzcs/fabiancruzcs/blob/main/Banner-cruzcs-ver2.0.png" alt="cruzcsbanner" width="900" height="400"/>
+</p>
+
 # 👋 Hi, I'm Fabian! <br> <sub> Aspiring Cybersecurity Professional & CTF Enthusiast </sub>
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cruzcs.png)
