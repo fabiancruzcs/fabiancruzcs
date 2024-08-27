@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fabian! <br> <sub> Aspiring Cybersecurity Professional & CTF Enthusiast </sub>
+# 👋 Hi, I'm Fabian! <br> <sub> Aspiring Cybersecurity Professional </sub>
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cruzcs.png)
 <!--- [![Hack The Box](https://www.hackthebox.com/badge/image/1957659)](https://app.hackthebox.com/profile/1957659) --->
@@ -17,7 +17,7 @@
 
 | CTF Event Name     | Rank     | Top  | My Writeup      | 
 |--------------------------------------|----------------------|-------------------|---------------------------------------|
-| [NahamCon CTF 2024](https://ctftime.org/event/2364)  | 1297/3833     | 34% | [GitHub](https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024) | 
+| [NahamCon CTF 2024](https://ctftime.org/event/2364)  | 1297/3833     | 34% | [Repository](https://github.com/fabiancruzcs/CTF-Writeups/tree/main/NahamCon-CTF-2024) | 
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiancruzcs) 
