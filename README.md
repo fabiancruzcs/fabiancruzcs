@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fabian! <br> <sub> Aspiring Cybersecurity Professional </sub>
+# 👋 Hi, I'm Fabian! <br> <sub> Aspiring Cybersecurity Analyst </sub>
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cruzcs.png)
 <!--- [![Hack The Box](https://www.hackthebox.com/badge/image/1957659)](https://app.hackthebox.com/profile/1957659) --->
