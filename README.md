@@ -5,7 +5,7 @@
 
 #### _Welcome to my portfolio, where I share my experience, achievements, and ongoing growth in my professional journey._ </br>
 
-## 🛡️ Cybersecurity Projects:
+## 🗂️ Projects:
 
 - **SQL Injections Techniques**
   - [In-band Error-based SQL Injection (Classic SQLi)](https://github.com/fabiancruzcs/Classic-error-based-SQLi-Lab/blob/main/README.md)
