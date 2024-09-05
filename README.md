@@ -7,6 +7,8 @@
 
 ## 🗂️ Projects:
 
+- **Network Monitoring and Analysis**
+  - Using Basic Filters in Wireshark
 - **SQL Injections Techniques**
   - [In-band Error-based SQL Injection (Classic SQLi)](https://github.com/fabiancruzcs/Classic-error-based-SQLi-Lab/blob/main/README.md)
   - In-band Union-based SQL Injection (Classic SQLi) # Planned next
