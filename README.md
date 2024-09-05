@@ -10,7 +10,7 @@
 - **Network Monitoring and Analysis**
   - Using Basic Filters in Wireshark
 - **Web Application Security**
-  - [SQL Injections Techniques](https://github.com/fabiancruzcs/Classic-error-based-SQLi-Lab/blob/main/README.md)
+  - [SQL Injections Techniques](https://github.com/fabiancruzcs/SQL-Injections-Techniques)
   - In-band Union-based SQL Injection (Classic SQLi) # Planned next
 - **SOC Analyst HomeLab**
   - [SIEM and Log Analysis](https://github.com/fabiancruzcs/SIEM-and-Log-Analysis-Lab) # On-going
