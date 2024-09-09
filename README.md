@@ -8,7 +8,7 @@
 ## 🗂️ Projects:
 
 - **Network Monitoring and Analysis**
-  - [Using Basic Filters in Wireshark](https://github.com/fabiancruzcs/Using-Basic-Filters-in-Wireshark)
+  - [Basic Filters in Wireshark](https://github.com/fabiancruzcs/Using-Basic-Filters-in-Wireshark)
 - **Web Application Security**
   - [SQL Injections Techniques](https://github.com/fabiancruzcs/SQL-Injections-Techniques)
 - **SOC Analyst HomeLab**
