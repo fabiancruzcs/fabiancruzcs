@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fabian! <br> <sub> Aspiring SOC Analyst </sub>
+# 👋 Hi, I'm Fabian! <br> <sub> apt-get install coffee && meet_fabian ☕ </sub>
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cruzcs.png)
 <!--- [![Hack The Box](https://www.hackthebox.com/badge/image/1957659)](https://app.hackthebox.com/profile/1957659) --->
